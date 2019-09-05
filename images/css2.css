@@ -1,0 +1,81 @@
+BODY {
+	MARGIN-TOP: 0px;
+	BACKGROUND-IMAGE: url(bg12.jpg);
+	MARGIN-LEFT: 0px;
+	BACKGROUND-COLOR: #000000;
+	margin-right: 0px;
+	background-repeat: no-repeat;
+}
+body,td,th {
+	color: #FFFFFF;
+	font-size: 16px;
+}
+#Layer1 {
+	position:absolute;
+	left:440px;
+	top:838px;
+	width:351px;
+	height:238px;
+	z-index:1;
+}
+#Layer2 {
+	position:absolute;
+	left:640px;
+	top:-18px;
+	width:316px;
+	height:404px;
+	z-index:0;
+	visibility: inherit;
+	overflow: visible;
+}
+#Layer3 {
+	position:absolute;
+	left:906px;
+	top:418px;
+	width:139px;
+	height:153px;
+	z-index:1;
+	visibility: visible;
+	overflow: auto;
+}
+.STYLE3 {
+	FONT-SIZE: 16px; COLOR: #00ffff; LINE-HEIGHT: 30px; FONT-FAMILY: "˜Ë¿¬ów"
+}
+.STYLE3 td {
+	FONT-SIZE: 16px; COLOR: #00ffff; LINE-HEIGHT: 30px; FONT-FAMILY: "˜Ë¿¬ów"
+}
+#Layer4 {
+	position:absolute;
+	left:1000px;
+	top:1157px;
+	width:121px;
+	height:250px;
+	z-index:1;
+}
+#Layer5 {
+	position:absolute;
+	left:5px;
+	top:5px;
+	width:220px;
+	height:23px;
+	z-index:2;
+}
+#Layer6 {
+	position:absolute;
+	left:758px;
+	top:1563px;
+	width:73px;
+	height:63px;
+	z-index:3;
+}
+.style29 {	COLOR: #ffff00
+}
+.style56 {	FONT-WEIGHT: bold; FONT-SIZE: 18pt; FONT-FAMILY: "ºÚÌå"
+}
+.style57 {	FONT-SIZE: 18pt; COLOR: #ff0000; FONT-FAMILY: "ºÚÌå"
+}
+.style58 {	FONT-SIZE: 18pt; COLOR: #ffff00; FONT-FAMILY: "ºÚÌå"
+}
+.style8 {	FONT-SIZE: x-large
+}
+/* CSS Document */
